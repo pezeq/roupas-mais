@@ -85,16 +85,6 @@ It uses static helper methods for each menu operation and input validation.
 
 ---
 
-## 📎 Academic Context
-
-- **Course**: Programação de Computadores
-- **Professor**: Lucas Schmidt
-- **Semester**: 1st
-- **University**: [Your University Name]
-- **Grade**: 10 points total
-
----
-
 ## 👨‍💻 Author
 
 Pedro Ezequiel  
